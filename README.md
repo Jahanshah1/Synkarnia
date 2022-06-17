@@ -19,5 +19,5 @@ token for micro transaction on blockchain with minting/burning and on-chain gove
 
 
 ## Future plans 
-- making a front-end for on chain governance 
+- deploying a front-end for on chain governance 
 - integrating the contract with our machine learning protocol hence people can perform micro transactions directly through our platform 
